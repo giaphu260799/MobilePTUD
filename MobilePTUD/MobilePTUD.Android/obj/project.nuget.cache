@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8GrHjL6CbGBwwXD0lJMN36WGi1WmHH6nBIBOzHisP1qPORDNmcFwcMwqnsw1aAQuqnSq+giuk6CepNhEhFuJQ==",
+  "dgSpecHash": "Kv8bmxPIaVl8+BGhNxe2xKbhvV3O5UwVQn16oPDODIoWCrmhhprJsleG7zo579hgEctOHxV/cYmNZTlFPJ6kyA==",
   "success": true,
-  "projectFilePath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

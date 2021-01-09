@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj": {}
   },
   "projects": {
-    "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj",
         "projectName": "MobilePTUD.Android",
-        "projectPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\MobilePTUD.Android.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj": {
-                "projectPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj"
+              "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj",
         "projectName": "MobilePTUD",
-        "projectPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

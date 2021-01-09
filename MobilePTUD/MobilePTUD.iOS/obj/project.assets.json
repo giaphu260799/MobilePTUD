@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.iOS\\MobilePTUD.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.iOS\\MobilePTUD.iOS.csproj",
       "projectName": "MobilePTUD.iOS",
-      "projectPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.iOS\\MobilePTUD.iOS.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.iOS\\MobilePTUD.iOS.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD.iOS\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj": {
-              "projectPath": "D:\\4th (Nam 4)\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj"
+            "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\MobilePTUD\\MobilePTUD\\MobilePTUD\\MobilePTUD.csproj"
             }
           }
         }
